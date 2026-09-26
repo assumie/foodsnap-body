@@ -6,6 +6,19 @@
 
 [Open the live preview](https://ais-pre-dsrhuffgag43w67cmsxg43-69964347795.asia-east1.run.app/) · [Esther's GitHub](https://github.com/assumie)
 
+**Public preview · README only · Application source not published yet**  
+**公开预览版 · 本仓库目前只有项目介绍，应用源码暂未公开**
+
+![FoodSnap daily food log in English](assets/preview.png)
+
+*Live interface preview. Meal entries shown are from the public preview. / 公开预览画面中的餐食记录仅供展示。*
+
+## Why I started it / 为什么做这个
+
+I wanted to remember what I ate through photos, see meals by breakfast, lunch, and dinner, and compare estimated nutrition with my weight trend. The design keeps the photo and the context together, while leaving room to correct uncertain AI estimates.
+
+我想用拍照的方式记录三餐，保留食物照片，同时观察大概的热量与营养，以及体重随时间的变化。AI 的辨识结果应该可以人工修改，不应被当成绝对准确的数据。
+
 </div>
 
 ## The idea
